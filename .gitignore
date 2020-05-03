@@ -24,7 +24,7 @@
 hs_err_pid*
 /build/
 /.gradle/
-/Numeric Matrix Processor/task/build/
-/Numeric Matrix Processor/task/out/
+/Unit Converter/task/build/
+/Unit Converter/task/out/
 **/.idea/workspace.xml
 **/.idea/tasks.xml
